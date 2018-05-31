@@ -1,0 +1,45 @@
+[
+    {
+        "name": "chj/tree",
+        "version": "v1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/chenhuojia/touch.git",
+            "reference": "ef1fe1bb946ba87dbf864b3d7cb350aa3dfe0930"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/chenhuojia/touch/ef1fe1bb946ba87dbf864b3d7cb350aa3dfe0930.zip",
+            "reference": "ef1fe1bb946ba87dbf864b3d7cb350aa3dfe0930",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4"
+        },
+        "time": "2018-04-16T06:02:06+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Tree\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "chenhuojia",
+                "email": "1126089253@qq.com"
+            }
+        ],
+        "description": "tree data 使用递归生成树形数据，简单实用",
+        "keywords": [
+            "tree",
+            "tree-data",
+            "无限分类"
+        ]
+    }
+]
