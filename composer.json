@@ -1,0 +1,12 @@
+{
+    "name": "chj/chj",
+    "description": "chj",
+    "type": "yii_extension",
+    "authors": [
+        {
+            "name": "shixiao",
+            "email": "274605391@qq.com"
+        }
+    ],
+    "require": {}
+}
